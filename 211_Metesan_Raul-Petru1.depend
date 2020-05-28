@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590692085 source:d:\universitae\cpp\211_metesan_raul-petru1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+
